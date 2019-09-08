@@ -35,7 +35,6 @@ def runntxt(s):
 
 def banner():
     os.system('clear')
-    print " "
     runntxt(GG+"    Hello Honey! This For You")
     runntxt(GL+"           웃❤유            ")
     runntxt(GG+"   I Love SHWE YEE MYO 😘    ")
